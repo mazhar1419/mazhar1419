@@ -6,7 +6,7 @@
   <a href="https://github.com/mazhar1419"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mazhar1419"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/doanldPutjonginTrump/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://wa.me/+880 1797-192725"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/+8801797192725"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://discord.com/users/in1419"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
@@ -121,7 +121,7 @@ Hands-on ML scripts and analytics utilities.
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/mazhar1419  
 - 🧡 **Reddit:** https://www.reddit.com/user/doanldPutjonginTrump/  
-- 💬 **WhatsApp:** https://wa.me/+880 1797-192725  
+- 💬 **WhatsApp:** https://wa.me/+8801797192725
 - 🎧 **Discord:** https://discord.com/users/in1419  
 - 📧 **Email:** imazharul1101@gmail.com
 
