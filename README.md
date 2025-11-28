@@ -1,6 +1,8 @@
 <!-- Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#4ba3ff">Mazharul Islam</span></h1>
 <h3 align="center">💻 Programmer • Full-Stack Developer • System Builder</h3>
+<h4 align="center"><i>codicem hominem sapere facit!</i></h4>
+
 
 <p align="center">
   <a href="https://github.com/mazhar1419"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
